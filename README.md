@@ -1,50 +1,23 @@
-📜 Certificates – V. Anbuchelvan
+# Certificates
 
-Hi, I’m V. Anbuchelvan (ZANYANBU) 👋
-I’m a 2nd-year Computer Science student passionate about Quantum Computing, Operating Systems, and Open-Source Projects.
-This repository serves as a portfolio of my certifications, highlighting my learning journey and the skills I’ve gained from global technology leaders.
+Certificates and badges I have earned, each with a way to verify it. PDF and image
+copies are in this repository.
 
-🎓 Certifications
-Certificate	Issuer	Date	Verification
-Qiskit Global Summer School 2025 – Quantum Excellence	IBM	29 Aug 2025	🔗 Verify;https://www.credly.com/badges/41fea0f4-70ae-4bca-9546-0c948b2d06c4/public_url
+| Certificate | Issuer | Date | Verify |
+|---|---|---|---|
+| Qiskit Global Summer School 2025, Quantum Excellence | IBM | 29 Aug 2025 | [Credly](https://www.credly.com/badges/41fea0f4-70ae-4bca-9546-0c948b2d06c4/public_url) · [PDF](QiskitGlobalSummerSchool2025-QuantumExcellence_Badge20250828-32-fwysq6.pdf) |
+| Quantum Enigmas | IBM SkillsBuild | 1 Sep 2025 | [Credly](https://www.credly.com/badges/f9770a09-a5a8-45ce-8041-951917c789ab/print) · [PDF](QuantumEnigmas_Badge20250901-35-d3y4f0.pdf) |
 
-Quantum Enigmas	IBM SkillsBuild	01 Sep 2025	🔗 Verify;https://www.credly.com/badges/f9770a09-a5a8-45ce-8041-951917c789ab/print
+## About me
 
-📂 PDF copies of each certification are available in this repository.
+I am V. Anbuchelvan, a Computer Science undergraduate at SRM Institute of Science and
+Technology. I build [Eesa AI](https://eesa.ai) and a handful of open-source tools; the
+work itself is on [my profile](https://github.com/ZANYANBU).
 
-💡 My Interests
+- Email: zanyanbuchelvan@gmail.com
+- LinkedIn: https://www.linkedin.com/in/anbuchelvan-v-aa5b11260/
 
-⚛️ Quantum Computing – Algorithms, Qiskit, error correction, hybrid computing
+## Licence
 
-💻 Systems & OS – Process management, memory/storage, system design
-
-🌐 Open Source – Contributing to collaborative projects and sharing knowledge
-
-🔧 Hands-on Builds – From hardware tinkering to home lab servers
-
-📚 Research & Learning – Exploring tech from a first-principles perspective
-
-📫 Contact
-
-I’m always open to collaboration, mentorship, or project discussions.
-
-📧 Email: zanyanbuchelvan@gmail.com
-
-🐙 GitHub: ZANYANBU
-
-💼 LinkedIn: (https://www.linkedin.com/in/anbuchelvan-v-aa5b11260/)
-
-📖 About This Repo
-
-This repo is:
-
-A central archive of my certifications 
-
-A timeline of my academic and technical growth
-
-A portfolio to share with recruiters, mentors, and collaborators
-
-📝 License
-
-This repository is shared under the MIT License.
-Feel free to fork, share, and use the structure for your own certification portfolio.
+The repository structure is shared under the MIT License. The certificates themselves
+belong to their issuers.
