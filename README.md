@@ -7,8 +7,8 @@ copies are in this repository.
 |---|---|---|---|
 | Qiskit Global Summer School 2025, Quantum Excellence | IBM | 29 Aug 2025 | [Credly](https://www.credly.com/badges/41fea0f4-70ae-4bca-9546-0c948b2d06c4/public_url) · [PDF](QiskitGlobalSummerSchool2025-QuantumExcellence_Badge20250828-32-fwysq6.pdf) |
 | Quantum Enigmas | IBM SkillsBuild | 1 Sep 2025 | [Credly](https://www.credly.com/badges/f9770a09-a5a8-45ce-8041-951917c789ab/print) · [PDF](QuantumEnigmas_Badge20250901-35-d3y4f0.pdf) |
-| Networking Basics | Cisco Networking Academy | 12 Oct 2026 | Cert ID `73122487-9426-4062-b1a1-8ccaf93d8c18` · [PDF](Cisco-Networking-Basics.pdf) |
-| Networking Devices and Initial Configuration | Cisco Networking Academy | 12 Oct 2026 | Cert ID `809d79c9-b9a5-4dab-a892-4282c17a06ad` · [PDF](Cisco-Networking-Devices-and-Initial-Configuration.pdf) |
+| Networking Basics | Cisco | 12 Oct 2026 | [Credly](https://www.credly.com/badges/f1c5eca1-0e3b-4216-96ad-94a7db8d2678/public_url) · [PDF](Cisco-Networking-Basics.pdf) |
+| Networking Devices and Initial Configuration | Cisco | 12 Oct 2026 | [Credly](https://www.credly.com/badges/89715301-acdc-41e5-a49c-3f70cdaa9a07/public_url) · [PDF](Cisco-Networking-Devices-and-Initial-Configuration.pdf) |
 
 ## About me
 
